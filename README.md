@@ -20,7 +20,7 @@
 ## 🛠️ Projects I've Built:
 - 📝 **To-Do List App** – Task creation, deletion, and storage using LocalStorage  
 - 🌦️ **Weather App** – Real-time weather updates via OpenWeatherMap API  
-- 🌐 **Personal Portfolio Website** – Showcasing my work, built with HTML, CSS, and JS  
+- 🌐 **Mood Based Quote Generator** – Showcasing my work, built with HTML, CSS, and JS  
 *(More projects in progress...)*
 
 ---
@@ -33,22 +33,13 @@
 - **Git Workflow** – Branching, commits, collaboration  
 - *(Soon diving into backend: Node.js, Express.js, MongoDB)*
 
----
-
-## 🔭 What's Next:
-- 🚀 Become a job-ready Full Stack Web Developer  
-- 🎓 Secure an internship for real-world experience  
-- 💡 Build unique and impactful web apps  
-- 🌍 Contribute to open source projects  
-- 🧩 Deepen skills in React, API integration, and backend development
-
----
+--
 
 ## 📫 Let's Connect:
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: https://github.com/wrix244
+- LinkedIn: https://www.linkedin.com/in/rupam-debnath-110b85260/
+- Email: rupamdebnath2003@gmail.com
 
 ---
 
-> 💬 *"Every great developer you know once struggled to learn. Don't quit. Keep building."*
+
