@@ -1,7 +1,9 @@
 # 👋Myself Rupam
 ### 🌐 Aspiring Full Stack Web Developer | Web Dev Diploma Student @ Jadavpur University
 
-I’m currently pursuing a **Web Development Diploma** at **Jadavpur University**, and I’m passionate about building responsive, user-friendly websites. I'm focused on mastering both front-end and back-end technologies to become a **skilled Full Stack Web Developer**.
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=747DF7&width=435&lines=Web+Dev+(Diploma+'25)+Student;Front-End+Dev+%7C+Learning+Back-End)](https://git.io/typing-svg)
 
 ---
 
